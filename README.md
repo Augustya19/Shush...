@@ -48,8 +48,11 @@
 
 ### Clone and Run
 git clone https://github.com/Augustya19/Shush.git
+
 cd Shush
+
 npm install
+
 npm start
 
 ### 👩‍💼 Why SHUSH?
